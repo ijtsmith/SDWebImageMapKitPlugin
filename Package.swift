@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SDWebImageMapKitPlugin",
     platforms: [
-        .macOS(.v10_10), .iOS(.v8), .tvOS("9.2")
+        .macOS(.v10_10), .iOS(.v9), .tvOS("9.2")
     ],
     products: [
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
